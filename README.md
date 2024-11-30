@@ -19,10 +19,15 @@ Copia el archivo .env.example a un nuevo archivo llamado .env:
 **cp .env.example .env**
 
 DB_CONNECTION=pgsql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=5432
+
 DB_DATABASE=db_decameron
+
 DB_USERNAME=postgres
+
 DB_PASSWORD=tu_constraseña
 
 
